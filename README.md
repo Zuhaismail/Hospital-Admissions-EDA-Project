@@ -33,7 +33,7 @@ Insightful questions are explored using plots and tables. Various visualization 
 
 ---
 
-## ❓ Exploratory Questions Answered
+## ❓ Exploratory Data Analysis Questions
 
 1. What is the total number of admissions?
 2. What is the distribution of gender among admitted patients?
