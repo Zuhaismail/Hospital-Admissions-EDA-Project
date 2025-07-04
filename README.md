@@ -52,7 +52,7 @@ Insightful questions are explored using plots and tables. Various visualization 
 
 * `HealthCare_EDA_Project.ipynb` – The main Jupyter notebook with full code and visualizations.
 * `README.md` – Project overview and documentation.
-* `Cleaned_Dataset.csv` – *(Optional, if included)* Dataset used for the project.
+* `Cleaned_Dataset.csv` – Dataset used for the project.
 
 ---
 
